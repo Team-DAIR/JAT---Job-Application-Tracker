@@ -79,7 +79,7 @@ Take things step by step, talk about who would be best suited for that portion o
 
 • What project management tool will be used? We will be using Trello
 
-- Pull Request Review:
+• Pull Request Review:
  - PRs must be approved by 2 team members before it can be merged
 
 ### Presentation Deck
