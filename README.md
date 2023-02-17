@@ -1,8 +1,10 @@
-# Authors: Aubrey Corsetti, Dylan Cabral, Ian Shirley, Ricardo Soto-Fabela
+# Team Agreement
+
+## Authors: Aubrey Corsetti, Dylan Cabral, Ian Shirley, Ricardo Soto-Fabela
 
 > **COMPARISON IS THE THIEF OF JOY**
 
-## Logistical
+### Logistical
 
 • Hours of communication: Open
 
@@ -76,3 +78,7 @@ If we can’t come up with a unanimous resolution within 15 minutes then we will
 Take things step by step, talk about who would be best suited for that portion of the project. We will have open communication to find out when the projects are done.
 
 • What project management tool will be used? We will be using Trello
+
+### Presentation Deck
+
+- [Click Here](https://docs.google.com/presentation/d/1LlU1QiCZqri8hFVDFD7m1koe54xN-isuHHrW3U2RWEw/edit?usp=sharing)
