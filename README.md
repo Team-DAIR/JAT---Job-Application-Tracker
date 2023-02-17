@@ -77,7 +77,7 @@ If we can’t come up with a unanimous resolution within 15 minutes then we will
 
 Take things step by step, talk about who would be best suited for that portion of the project. We will have open communication to find out when the projects are done.
 
-• What project management tool will be used? We will be using Trello
+• What project management tool will be used? We will be using [Trello](https://trello.com/invite/b/rJ7tjBFR/ATTI1fdb4a157d7ec6b151370a5abc060328974D2B26/jat-it-down)
 
 • GitHub Pull Request Review:
  - PRs must be approved by 2 team members before they can be merged
