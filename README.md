@@ -85,3 +85,5 @@ Take things step by step, talk about who would be best suited for that portion o
 ### Presentation Deck
 
 - [Click Here](https://docs.google.com/presentation/d/1LlU1QiCZqri8hFVDFD7m1koe54xN-isuHHrW3U2RWEw/edit?usp=sharing)
+
+### [Software Requirements](requirements.md)
