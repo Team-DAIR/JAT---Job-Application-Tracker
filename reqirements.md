@@ -32,6 +32,7 @@ It will not only help users be more organized in keeping track of their job appl
 
 **- Usability:**
   - First-time users should be able to understand what the website does, and how to use it.
+
 **- Testability:**
   - Test the CRUD functionality by verifying information in the database based on user actions
   - Test that the daily affirmation is correctly rendering content from an API
